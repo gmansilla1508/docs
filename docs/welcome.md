@@ -24,7 +24,7 @@ First time visiting Celo? [View the Website](https://www.celo.org)
 
 ## Celo's Mission
 
-The company’s mission is to build a financial system that creates the conditions of prosperity for everyone. Celo enables native and non-native digital assets–both cryptographic and Central Bank Digital Currencies (CBDCs)–to circulate freely across devices, carriers, and countries. This makes money mobile, global and accessible like never before. Celo is supported by a community of organizations and individuals, including Jack Dorsey, a16z, and Deutsche Telekom.
+The company’s mission is to build a financial system that creates the conditions of prosperity for everyone. Celo enables native and non-native digital assets–both cryptographic and Central Bank Digital Currencies (CBDCs)–to circulate freely across devices, carriers, and countries. This makes money mobile, global and accessible like never before. Celo is supported by a community of organizations and individuals, including Jack Dorsey, a16z, and Deutsche Telecom.
 
 <YouTube videoId="kKggE5OvyhE"/>
 
